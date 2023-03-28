@@ -1,0 +1,31 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.result{
+display: flex;
+min-height: 15vh;
+width: 80%;
+justify-content: space-between;
+align-items: center;
+margin: auto;
+border-bottom:1px solid rgba(0, 0, 0, 0.2);
+}
+
+ul{
+    width: 50%;
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 1rem;
+    font-weight: 400;
+}
+
+h2{
+    margin-left: 20px;
+    
+}
