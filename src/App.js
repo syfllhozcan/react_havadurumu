@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
 
-  const APP_KEY = "5c8c0e7feac840f6b8934221232303"
+  const APP_KEY = "5c8c0e7feac840f6b893422123230"
   let cityinput = ""
   const [weatherdata, setwheatherdata] = useState([])
 
